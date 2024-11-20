@@ -1,0 +1,108 @@
+Annotation Guidelines for Intent Detection 
+
+Below are the guidelines for annotating queries into five specific categories. 
+
+1. Primary Intent-Only Rule   
+
+Definition: Annotators must label a query based on its primary intent, even if it fits multiple categories.  
+
+Rule: The most actionable or dominant intent determines the category.  
+
+Example: "Your product is amazing, but the app keeps crashing." 
+Label as a Technical Issue, since resolving the issue is the actionable intent.
+
+
+Category Guidelines 
+
+1. Inquiry
+   
+ Definition: Queries where the user is explicitly seeking information, clarification, or details.  
+ 
+Key Indicators :  
+- Use of interrogatives like How, What, Where, etc.  
+- No explicit request for action or issue description.  
+
+ Examples :  
+- Typical: "How do I track my order?"  
+- Ambiguous: "Can I cancel my order?" 
+(If asking for steps, label  Information Request; if asking for cancellation directly, label  Request for Action).  
+
+
+Resolution for Ambiguity: 
+
+Annotate as an Information Request if the primary focus is learning the process. Add a comment if the context is unclear.  
+
+
+ 2. Request for Action   
+ 
+Definition: Queries that involve asking for a specific action or service.  
+
+Key Indicators :  
+- Use of imperatives like Please, Do, Cancel, or Change.  
+- Describes an action they want the organization to perform.  
+
+ Examples :  
+- Typical: "Please cancel my subscription."  
+- Ambiguous: "I’d like to know how to cancel my subscription." 
+
+(Label  Information Request if no direct action is requested).  
+
+Resolution for Ambiguity: Consider what the user is expecting the support team to do. Use  Request for Action if action is explicitly desired.  
+
+3. Praise   
+Definition: Positive feedback or compliments about products, services, or experiences.  
+
+Key Indicators :  
+- Expressions of satisfaction or appreciation.  
+- Phrases like Love, Great, Amazing, etc.  
+
+ Examples :  
+- Typical: "I’m so happy with your service!" 
+- Ambiguous: "Your product is amazing, but I can’t log in." 
+(Label as  Technical Issues since resolving the issue is actionable).  
+
+Resolution for Ambiguity: Label  Praise only if the entire query centers on positive feedback. For mixed intent, use actionable categories like  Technical Issues.  
+
+4. Complaint   
+Definition: Expressions of dissatisfaction, frustration, or negative experiences.  
+
+Key Indicators :  
+- Words like Disappointed, Upset,  or Frustrated.  
+- Often seeks acknowledgment but may not request a specific action.  
+
+ Examples :  
+- Typical: "I’m unhappy with the late delivery."  
+- Ambiguous: "I’m upset about the delay; please refund my money." 
+
+(Label as  Request for Action since a refund is explicitly requested).  
+
+Resolution for Ambiguity: Use  Complaint if the intent is primarily to express dissatisfaction without an explicit call to action.  
+
+5. Technical Issues   
+
+Definition: Queries describing technical malfunctions, errors, or troubleshooting needs.  
+ 
+Key Indicators :  
+- Mentions of software, apps, devices, or system behaviours.  
+- Words like Error, Crash, or Not working. 
+
+ Examples :  
+- Typical: "The app crashes whenever I open it."  
+- Ambiguous: "I can’t log in; can you reset my account?" (Label  Request for Action since resetting is explicitly requested).  
+
+Resolution for Ambiguity: Prioritize technical description over accompanying requests. Use  Technical Issues if resolving a malfunction is central.  
+
+Ambiguity and Fallback Rules 
+
+1.  Unclear Queries :  
+   - If intent cannot be discerned, mark it as  Unclear and provide a comment explaining why.  
+   - Example: "I’m facing issues; help!"  
+
+2.  Multiple Categories :  
+ - If a query fits more than one category, follow the  Primary Intent-Only Rule :
+ -  Technical Issues > Request for Action > Complaint > Account Inquiry > Information Request > Praise   
+
+3.  Short or Vague Queries :  
+   - Use context when available. If not possible, label it as  Unclear.  
+
+
