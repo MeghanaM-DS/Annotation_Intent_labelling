@@ -1,0 +1,13 @@
+Query_Id,query,label_1,label_2
+3,Can you guide me on how to change my subscription plan?,Inquiry,Request for action
+9,Can you explain how to redeem my loyalty points?,Inquiry,Request for action
+51,Why am I seeing a blank screen after logging into the app?,Technical Issue,Inquiry
+102,"I was promised a refund, but it has not been processed yet.",Complaint,Technical Issue
+106,Your recent update has made the app almost unusable.,Complaint,Technical Issue
+109,Your live chat service takes too long to connect to an agent.,Complaint,Technical Issue
+111,The subscription auto-renewed without notifying me. I am so disappointed,Technical Issue,Complaint
+117,I was offered a discount that was not applied to my final bill.,Unclear,Complaint
+124,Can I request a product replacement for the damaged item I received?,Request for action,Inquiry
+125,I want to upgrade my subscription to a premium plan.,Request for action,Unclear
+137,I would like to deactivate notifications for promotional offers.,Request for action,Unclear
+174,Can I get a breakdown of the charges on my recent bill?,Inquiry,Request for action
