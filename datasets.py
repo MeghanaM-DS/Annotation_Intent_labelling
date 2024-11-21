@@ -1,3 +1,11 @@
+"""
+datasets.py
+
+This script is responsible for:
+- Merging annotations from `Annotator_1.csv` and `Annotator_2.csv` into a combined dataset `combined_labels.csv`.
+- Identifying and outputting disagreements between annotators into `disagreements.csv`.
+
+"""
 import pandas as pd
 
 df1 = pd.read_csv('Labelling/Annotator1_labels.csv')
@@ -17,4 +25,4 @@ print("\nLabel counts for Annotator 2:")
 print(label_counts_2)
 
 disagreements = merged_df[merged_df['label_1'] != merged_df['label_2']]
-disagreements.to_csv("Labelling\disagreements.csv", index=False)
+disagreements.to_csv("Labelling/disagreements.csv", index=False)

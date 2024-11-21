@@ -1,0 +1,180 @@
+Query_Id,query,final_label,label_1,label_2,predicted_label_bart-large-mnli,predicted_label_roberta-large-mnli,predicted_label
+1,How can I update my email address on my account?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+2,I need help resetting my password.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+3,Can you guide me on how to change my subscription plan?,Request for action,Inquiry,Request for action,Request for action,Request for action,Request for action
+4,How do I delete my account permanently?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+5,I want to know if I can pause my subscription temporarily.,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+6,How can I check my account balance?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+7,I forgot my username; can you help me recover it?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+8,How do I update my payment details for the subscription?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+9,Can you explain how to redeem my loyalty points?,Inquiry,Inquiry,Request for action,Unclear,Request for action,Request for action
+10,I want to unsubscribe from your promotional emails.,Unclear,Unclear,Unclear,Request for action,Request for action,Request for action
+11,Where can I find the details of my past transactions?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+12,How do I enable two-factor authentication for my account?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+13,How can I check when my subscription is set to renew?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+14,What happens if my payment method expires during auto-renewal?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+15,How do I add a secondary user to my account?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+16,Can I switch to an annual plan instead of monthly billing?,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+17,I need help recovering my account after it was locked.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+18,Where can I view the subscription benefits in detail?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+19,Can I get a trial period before committing to a subscription?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+20,How do I change the shipping address saved on my account?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+21,I want to know if I can merge two accounts into one.,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+22,What steps do I need to follow to verify my account?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+23,Can I add multiple payment methods to my account?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+24,How do I update the preferences for notifications from your service?,Inquiry,Inquiry,Inquiry,Unclear,Technical Issue,Technical Issue
+25,What should I do if my account gets hacked?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+26,Can I access my subscription benefits while traveling abroad?,Inquiry,Inquiry,Inquiry,Request for action,Inquiry,Inquiry
+27,How do I extend the trial period for my subscription?,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+28,How do I dispute a charge made to my account?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+29,I need help linking my account with my social media profiles.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+30,I cannot log into my account despite using the correct password.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+31,The app keeps freezing when I try to access my previous orders.,Technical Issue,Technical Issue,Technical Issue,Request for action,Unclear,Unclear
+32,The website shows an error message every time I attempt to make a payment.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+33,The new update caused some of my saved data to disappear.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+34,Why is my promo code  not being accepted during checkout?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+35,I am having trouble connecting to your service via mobile data.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+36,My device is not syncing properly with the app.,Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue
+37,The tracking system does not show any updates for my package.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+38,I can not download the invoice for my recent order.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+39,I keep getting logged out of my account automatically.,Technical Issue,Technical Issue,Technical Issue,Complaint,Complaint,Complaint
+40,I am unable to verify my account using the email link.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+41,Why is the system showing duplicate charges on my account?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+42,The notifications are not working despite enabling them in settings.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+43,"The subscription renewal failed, but my account was charged.",Technical Issue,Technical Issue,Technical Issue,Unclear,Request for action,Request for action
+44,I can not access the premium features I paid for.,Technical Issue,Technical Issue,Technical Issue,Complaint,Technical Issue,Technical Issue
+45,My two-factor authentication code is not being sent to my phone.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+46,The download link provided in the email does not work.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+47,Why is my payment method being declined repeatedly?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+48,I can not change my password because the reset page is not loading.,Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue
+49,The help center section displays a blank page.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+50,I am unable to link my social media account to your service.,Technical Issue,Technical Issue,Technical Issue,Unclear,Technical Issue,Technical Issue
+51,Why am I seeing a blank screen after logging into the app?,Technical Issue,Technical Issue,Inquiry,Unclear,Unclear,Unclear
+52,I am not receiving email notifications for account activity.,Technical Issue,Technical Issue,Technical Issue,Unclear,Unclear,Unclear
+53,Your customer service team is always so helpful and quick to respond!,Praise,Praise,Praise,Praise,Praise,Praise
+54,I love the quality of your products; they are worth every penny.,Praise,Praise,Praise,Praise,Praise,Praise
+55,Your app update made everything so much easier to navigate. Great job!,Praise,Praise,Praise,Praise,Praise,Praise
+56,I am so impressed with how fast my order was delivered.,Praise,Praise,Praise,Request for action,Praise,Praise
+57,Your website is beautifully designed and very user-friendly.,Praise,Praise,Praise,Praise,Praise,Praise
+58,The packaging was so thoughtful and customised. Thank you!,Praise,Praise,Praise,Praise,Praise,Praise
+59,I had a great experience using your service for the first time.,Praise,Praise,Praise,Praise,Praise,Praise
+60,Your team resolved my issue in no time. Amazing customer care!,Praise,Praise,Praise,Praise,Praise,Praise
+61,I love how detailed your product descriptions are. They make shopping so easy.,Praise,Praise,Praise,Inquiry,Praise,Praise
+62,The loyalty program rewards are so generous. Keep it up!,Praise,Praise,Praise,Request for action,Request for action,Request for action
+63,Your live chat feature is one of the best I have ever used.,Praise,Praise,Praise,Praise,Praise,Praise
+64,"I have been a loyal customer for years, and your service keeps getting better!",Praise,Praise,Praise,Praise,Praise,Praise
+65,The customization options you offer are fantastic!,Praise,Praise,Praise,Request for action,Praise,Praise
+66,I can not wait to recommend your products to my friends and family.,Praise,Praise,Praise,Request for action,Praise,Praise
+67,Your seasonal discounts are unbeatable!,Praise,Praise,Praise,Praise,Request for action,Request for action
+68,I love the variety of items available on your platform.,Praise,Praise,Praise,Inquiry,Praise,Praise
+69,Your attention to detail in product design is amazing.,Praise,Praise,Praise,Praise,Praise,Praise
+70,The recent promotional email I received was so beautifully crafted.,Praise,Praise,Praise,Praise,Praise,Praise
+71,I am so happy with how easy it was to return an item.,Praise,Praise,Praise,Praise,Praise,Praise
+72,The rewards program is such a great incentive to keep shopping with you.,Praise,Praise,Praise,Request for action,Request for action,Request for action
+73,I appreciate the constant updates on my order status. It is very professional!,Praise,Praise,Praise,Request for action,Praise,Praise
+74,Your free shipping policy is such a great perk for customers.,Praise,Praise,Praise,Praise,Praise,Praise
+75,I love the way you respond personally to customer queries. It feels special.,Praise,Praise,Praise,Praise,Praise,Praise
+76,"Your products always arrive exactly as advertised, no surprises!",Praise,Praise,Praise,Request for action,Request for action,Request for action
+77,I have never had such a smooth onboarding experience with any other service.,Praise,Praise,Praise,Request for action,Praise,Praise
+78,The tips you include in your newsletters are so useful. Thank you!,Praise,Praise,Praise,Praise,Praise,Praise
+79,I am impressed by how you continuously innovate your offerings.,Praise,Praise,Praise,Inquiry,Praise,Praise
+80,Your company is setting a great example in customer service excellence.,Praise,Praise,Praise,Praise,Praise,Praise
+81,I always feel valued as a customer when I interact with your team.,Praise,Praise,Praise,Praise,Praise,Praise
+82,Thank you for consistently exceeding my expectations with every purchase.,Praise,Praise,Praise,Praise,Praise,Praise
+83,The product arrived damaged and completely unusable. Very disappointing experience.,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+84,It is not worth the price at all. The quality does not match the cost.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+85,Overpriced and underwhelming! I expected much better for the amount paid.,Complaint,Complaint,Complaint,Complaint,Unclear,Unclear
+86,"The product broke within a few days of use. Clearly, it is not durable.",Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+87,The description was misleading; the actual product is much smaller and of lower quality.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+88,I received the wrong item entirely. This has caused a lot of inconvenience.,Complaint,Complaint,Complaint,Unclear,Complaint,Complaint
+89,"The product stopped working after a week, and there is no way to get support.",Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+90,"Packaging was terrible, and the product was scratched and damaged on arrival.",Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+91,"The customer service team has been unresponsive, making it impossible to resolve my issue.",Complaint,Complaint,Complaint,Unclear,Complaint,Complaint
+92,"For this price point, I expected a premium product,I just got a cheap and defective one.",Complaint,Complaint,Complaint,Complaint,Unclear,Unclear
+93,"This was supposed to be new, but it looks like has been used before.",Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+94,The product does not perform as advertised. It is a waste of money.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+95,"I had high hopes for this, but the build quality is extremely poor.",Complaint,Complaint,Complaint,Unclear,Technical Issue,Technical Issue
+96,"The item arrived late, and when it finally did, it was defective.",Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+97,Not worth the buy at all. I could have gotten something better for half the price elsewhere.,Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+98,"My order arrived damaged, and I need a replacement.",Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+99,Your customer service team has not responded to my emails. I expected better service,Complaint,Complaint,Complaint,Unclear,Request for action,Request for action
+100,The package I received was missing some items I ordered.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+101,"Your website is too slow, and I can not complete my transaction.",Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue,Technical Issue
+102,"I was promised a refund, but it has not been processed yet.",Complaint,Complaint,Technical Issue,Unclear,Request for action,Request for action
+103,Your customer support agent was rude during our last interaction.,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+104,The delivery service left my package in the wrong location. I had to go over and bring them all myself,Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+105,The installation instructions for your product are unclear.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+106,Your recent update has made the app almost unusable.,Complaint,Complaint,Technical Issue,Complaint,Technical Issue,Technical Issue
+107,My issue has not been resolved despite contacting support multiple times.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+108,Your delivery partner refused to accept the return package.,Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+109,Your live chat service takes too long to connect to an agent.,Complaint,Complaint,Technical Issue,Complaint,Technical Issue,Technical Issue
+110,I was put on hold for over an hour and still did not get help.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+111,The subscription auto-renewed without notifying me. I am so disappointed,Complaint,Technical Issue,Complaint,Unclear,Complaint,Complaint
+112,Your store did not honor the sale price displayed on the website.,Complaint,Complaint,Complaint,Unclear,Request for action,Request for action
+113,Why does the tracking system show that my package is still in transit?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+114,Your service downtime caused major inconvenience to my work.,Complaint,Complaint,Complaint,Complaint,Technical Issue,Technical Issue
+115,The item I ordered looks completely different from the photos online.,Complaint,Complaint,Complaint,Unclear,Inquiry,Inquiry
+116,Your company failed to notify me about changes in the subscription policy.,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+117,I was offered a discount that was not applied to my final bill.,Unclear,Unclear,Complaint,Unclear,Inquiry,Inquiry
+118,The customer service line always busy when I call?,Complaint,Complaint,Complaint,Unclear,Unclear,Unclear
+119,Please cancel my subscription immediately.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+120,Can you update my billing address to my new location?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+121,I need assistance reactivating my account.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+122,Can you expedite the delivery for my order?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+123,Please change my email preferences to receive fewer notifications.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+124,Can I request a product replacement for the damaged item I received?,Inquiry,Request for action,Inquiry,Request for action,Request for action,Request for action
+125,I want to upgrade my subscription to a premium plan.,Unclear,Request for action,Unclear,Request for action,Request for action,Request for action
+126,Can you help me transfer my account to a new email address?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+127,I need to reset my account password; can you guide me?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+128,Please add a note to my order to deliver after 5 PM.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+129,I want to  request an invoice for my recent purchase.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+130,Can you deactivate my old account and merge it with my new one?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+131,Please issue a refund for my canceled order.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+132,I am out and cannot receive my order. Can I reschedule the delivery date?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+133,Can you escalate this issue to a higher authority for resolution?,Request for action,Request for action,Request for action,Unclear,Unclear,Unclear
+134,Please enable two-factor authentication for my account.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+135,I need assistance in canceling my auto-renewal subscription.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+136,Can you update my contact number for future correspondence?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+137,I would like to deactivate notifications for promotional offers.,Unclear,Request for action,Unclear,Request for action,Request for action,Request for action
+138,Can you reverse the additional charges on my bill?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+139,Please enable international shipping for my account.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+140,I need a copy of my transaction history for tax purposes.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+141,Can you provide a detailed breakdown of my last invoice?,Request for action,Request for action,Request for action,Unclear,Request for action,Request for action
+142,I would like to request priority service for my technical issue.,Request for action,Request for action,Request for action,Technical Issue,Technical Issue,Technical Issue
+143,Please upgrade my membership status to include premium features.,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+144,Can you transfer my credits to another account I own?,Request for action,Request for action,Request for action,Request for action,Request for action,Request for action
+145,What are your shipping options?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+146,Can you explain the benefits of upgrading to a premium plan?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+147,Where can I find information about your return policy?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+148,What payment methods do you accept?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+149,How can I track my order after placing it?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+150,Do you offer discounts for first-time customers?,Inquiry,Inquiry,Inquiry,Inquiry,Request for action,Request for action
+151,Where can I check my loyalty points balance?,Inquiry,Inquiry,Inquiry,Request for action,Inquiry,Inquiry
+152,How does your referral program work?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+153,What is the warranty on the product I bought?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+154,What are your business hours for customer support?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+155,Can I buy a gift card for your store?,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+156,Where can I find tutorials for using your product?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+157,Is there a difference between the basic and premium subscription?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+158,Can you provide details about your ongoing sales or offers?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+159,What is the delivery time for international orders?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+160,Do you have a size guide for your clothing items?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+161,How do I reset my account password?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+162,Can I modify my order after I placed it?,Inquiry,Inquiry,Inquiry,Request for action,Inquiry,Inquiry
+163,"Where can I download your app, and is it free?",Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+164,What is the process for verifying my account?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+165,Do you offer corporate or bulk purchasing discounts?,Inquiry,Inquiry,Inquiry,Inquiry,Request for action,Request for action
+166,Can I pause my subscription temporarily?,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+167,Are there any hidden fees in your pricing?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+168,Can you explain your cancellation policy in detail?,Inquiry,Inquiry,Inquiry,Unclear,Unclear,Unclear
+169,What is the minimum order value for free shipping?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+170,Is there a trial period for the premium service?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+171,What is the estimated time for my refund to be processed?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+172,Where can I find information about the materials used in your products?,Inquiry,Inquiry,Inquiry,Inquiry,Request for action,Request for action
+173,Do you offer any environmentally friendly packaging options?,Inquiry,Inquiry,Inquiry,Inquiry,Request for action,Request for action
+174,Can I get a breakdown of the charges on my recent bill?,Request for action,Inquiry,Request for action,Request for action,Request for action,Request for action
+175,What is the difference between your individual and family plans?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+176,Can I switch my subscription plan midway through the billing cycle?,Inquiry,Inquiry,Inquiry,Request for action,Request for action,Request for action
+177,What is the eligibility for using student discounts?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry
+178,Do you have a helpline number for immediate assistance?,Inquiry,Inquiry,Inquiry,Unclear,Request for action,Request for action
+179,How do I find out if your service is available in my area?,Inquiry,Inquiry,Inquiry,Unclear,Inquiry,Inquiry

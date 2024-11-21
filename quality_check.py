@@ -1,3 +1,9 @@
+"""
+quality_check.py
+
+This script evaluates the quality of annotations by calculating inter-annotator agreement using Cohen's Kappa.
+
+"""
 import pandas as pd
 from collections import Counter
 merged_df = pd.read_csv('Labelling/combined_labels.csv')

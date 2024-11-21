@@ -1,3 +1,9 @@
+"""
+queries.py
+
+This script converts raw queries from a text file (`queries.txt`) into a structured CSV format (`queries.csv`).
+
+"""
 import pandas as pd
 import re
 
