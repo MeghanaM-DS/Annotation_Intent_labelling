@@ -17,7 +17,10 @@ Contains the paper write-up.
 - **data/**  
   - `queries.txt` - Text file with raw queries.  
   - `queries.csv` - CSV file with structured queries.  
-  - `final_dataset.csv` - Generated dataset for further analysis.  
+  - `final_dataset.csv` - Generated dataset for further analysis.
+  - `Predicted_labels.csv` - Predicted labels  using model.
+  - `classification_report.csv` - Metrics used to measure performance for each label.
+  - `per_label_scores.csv` - Precison, Recall, F1-scores for each label.
 
 - **Labelling/**  
   - `Annotator_1.csv` - Labels provided by Annotator 1.  
